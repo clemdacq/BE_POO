@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1514140574 source:f:\be_poo\main.cpp
+	<iostream>
+
+1672990146 source:f:\be_poo\chassis.cpp
+	<iostream>
+	<math.h>
+	"moteur.hpp"
+	"voiture.hpp"
+	"chassis.hpp"
+
+1672990812 f:\be_poo\moteur.hpp
+	<iostream>
+	<math.h>
+
+1672989976 f:\be_poo\voiture.hpp
+	<iostream>
+	<math.h>
+	"chassis.hpp"
+	"moteur.hpp"
+
+1672990072 f:\be_poo\chassis.hpp
+	<iostream>
+	<math.h>
+
+1672990676 source:f:\be_poo\configurateur.cpp
+	<iostream>
+	<math.h>
+	"voiture.hpp"
+	"chassis.hpp"
+	"moteur.hpp"
+	"configurateur.hpp"
+
+1672990056 f:\be_poo\configurateur.hpp
+	<string.h>
+	"moteur.hpp"
+	"chassis.hpp"
+	"voiture.hpp"
+
+1672992318 source:f:\be_poo\moteur.cpp
+	<iostream>
+	<math.h>
+	"moteur.hpp"
+	"voiture.hpp"
+	"chassis.hpp"
+
